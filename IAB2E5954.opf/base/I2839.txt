@@ -1,71 +1,55 @@
 ༄༅།།བོད་ཀྱི་ནང་བསྟན་དཔེ་ཚོགས་ལྟེ་བ།།
 Tibetan Buddhist Resource Center
 Text Scan Input Form - Title Page
-2840
+2839
 TBRC Volume Number
-TBRC Work Number (W)
-Title
 759
-རྒྱལ་བ་དགེ་འདུན་གྲུབ་པའི་གསུང་འབུམ་
+TBRC Work Number (W )
+Title
+ རྒྱལ་བ་དགེ་འདུན་གྲུབ་པའི་གསུང་འབུམ་
 gsung 'bum / dge 'dun grub pa
 Author
-དགེ་འདུན་གྲུབ་པ་
+ དགེ་འདུན་གྲུབ་པ་
 dge 'dun grub pa
-Descriptor
-reproduced from prints from 'bras-spuns dga'-Idan pho-bran
+Descriptor reproduced from prints from 'bras-spuns dga'-Idan pho-bran
 blocks carved about 1894 from the library of the ven. dar-mdo
 rin-po-che
 Original Publication
-Place
-gangtok
-Publisher
-dodrup lama sangye
-1978-1981
-4.
-Date
+Place gangtok
+Publisher dodrup lama sangye
+Date 1978-1981
 Total Volumes
 Current Volume (of Total)
 Number of TBRC Introductory Pages
 Number of Introductory Pages
+560
 Number of Text Pages
-TBRC Scanning Information
-520
-scanned at tbrc, 115 5th ave, 7th floor, new york city, ny, 10003,
+TBRC Scanning Information scanned at tbrc, 115 5th ave, 7th floor, new york city, ny, 10003,
 by rabten 2003
 
-
-
-Full Record (Library of Congress Online Catalog)
-Page 1 of 2
-The Library of Congress
+Full Record (Library of Congress Online Catalog) Page 1 of 2
 >> Go to Library of Congress Authorities
+The Library of Congress
 LIBRARY OF CONGRESS ONLINE CATALOG
-.
-+
-]
-Start
+Sara 
++]
+ Start
+On 
 Help
-On Sara
 DATABASE: Library of Congress Online Catalog
 YOU SEARCHED: Author/Creator Browse = dge-'dun-grub
 SEARCH RESULTS: Displaying 5 of 18.
 Previous Next →
-WwwWw.WWWWWWA
-AINED
-4
-Brief Record
-Subjects/Content
-Full Record
-MARC Tags
-...
+WwwWw.WWWWWWA AINED 4
+Brief Record Subjects/Content Full Record MARC Tags
 The collected works of the first Dalai Lama Dge-'dun-grub-pa.
 LC Control Number: 79906947
-Type of Material: Book (Print, Microform, Electronic, etc.)
-Personal Name: Dye-'dun-grub, Dalai Lama I, 1391-1474.
+Type of Material: Book (Print, Microform , Electronic, etc.)
+Personal Name: Dye-'dun-grub, Dalai Lama I, 1391- 1474 .
 Main Title: The collected works of the first Dalai Lama Dge-dun-grub-pa.
-Published/Created: Gangtok : Dodrup Lama Sangye, 19<78 >-<1981 >
-Description: v. <1-6>; 10 x 38 cm.
-Notes: Title on boards: The collected (Gsun 'bum) of Dge-'dungrub-pa.
+Published /Created : Gangtok : Dodrup Lama Sangye, 19<78 >-<1981 >
+Description: v. <1-6 > ; 10 x 38 cm .
+Notes: Title on boards: The collected (Gsun 'bum ) of Dge-'dungrub-pa.
 In Tibetan.
 "Reproduced from prints from 'Bras-spuns Dga'-Idan Phobran blocks carved
 about 1894 from the library of the Ven. Dar-mdo Rin-po-che of Kalimpong."
@@ -78,35 +62,14 @@ Copy 1
 Previous Next
 WWW
 Save, Print and Email (Help Page)
-Print or Save
-Select Format
-© Text Format (Save, Print or Email)||
-MARC Format (ONLY Save)
+Select Format Print or Save
+© Text Format (Save, Print or Email)|| 
 Print or Save
 Search Results
-"
---
---
--
----
--
--
--- --
---
--
--
--
-.
-.
--
----
--
--
--
--
---
+MARC Format (ONLY Save)
 Email Search
-Results
 Enter email address: /
-.../Pwebrecon.cgi?v3=5&ti=1,5&SEQ=20030602192624&Search_Arg=dge-%27dun-grub&Sear6/2/2003
+Results
+.../Pwebrecon.cgi?v3=5& ti=1,5& SEQ= 20030602192624& Search_Arg=dge-% 27dun-grub& Sear6/2/2003
 W759 ok
+
